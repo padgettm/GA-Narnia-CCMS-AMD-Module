@@ -5,6 +5,11 @@
     "document-actions": [{
       "key": "change-qname",
       "remove": true
+    },
+    {
+      "key": "change-type",
+      "remove": true
     }]
   }
 }
+
