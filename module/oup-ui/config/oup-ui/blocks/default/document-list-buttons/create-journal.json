@@ -5,7 +5,7 @@
             "buttons": [
                 {
                     "key": "create-journal",
-                    "title": "Create Journal",
+                    "title": "Create Journal Page",
                     "iconClass": "fa fa-plus",
                     "align": "left",
                     "action": "create-journal",
