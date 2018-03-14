@@ -9,6 +9,10 @@
     {
       "key": "change-type",
       "remove": true
+    },
+    {
+      "key": "delete-document",
+      "remove": true
     }]
   }
 }
